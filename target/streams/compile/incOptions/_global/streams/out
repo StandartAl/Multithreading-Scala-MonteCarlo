@@ -1,0 +1,65 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes.bak
+[debug] About to delete class files:
+[debug] 	Main.class
+[debug] 	PiFiberBenchmark$$anon$1.class
+[debug] 	Main$.class
+[debug] 	PiBenchmark.class
+[debug] 	PiFiberBenchmark.class
+[debug] 	PiThreadBenchmark$MonteCarloThread.class
+[debug] 	PiParIOBenchmark.class
+[debug] 	Benchmark.class
+[debug] 	PiThreadBenchmark.class
+[debug] 	PiAsyncBenchmark.class
+[debug] 	Main.tasty
+[debug] 	PiFiberBenchmark$$anon$1.tasty
+[debug] 	Main$.tasty
+[debug] 	PiBenchmark.tasty
+[debug] 	PiFiberBenchmark.tasty
+[debug] 	PiThreadBenchmark$MonteCarloThread.tasty
+[debug] 	PiParIOBenchmark.tasty
+[debug] 	Benchmark.tasty
+[debug] 	PiThreadBenchmark.tasty
+[debug] 	PiAsyncBenchmark.tasty
+[debug] We backup class files:
+[debug] 	Main.class
+[debug] 	PiFiberBenchmark$$anon$1.class
+[debug] 	Main$.class
+[debug] 	PiBenchmark.class
+[debug] 	PiFiberBenchmark.class
+[debug] 	PiThreadBenchmark$MonteCarloThread.class
+[debug] 	PiParIOBenchmark.class
+[debug] 	Benchmark.class
+[debug] 	PiThreadBenchmark.class
+[debug] 	PiAsyncBenchmark.class
+[debug] 	Main.tasty
+[debug] 	PiFiberBenchmark$$anon$1.tasty
+[debug] 	Main$.tasty
+[debug] 	PiBenchmark.tasty
+[debug] 	PiFiberBenchmark.tasty
+[debug] 	PiThreadBenchmark$MonteCarloThread.tasty
+[debug] 	PiParIOBenchmark.tasty
+[debug] 	Benchmark.tasty
+[debug] 	PiThreadBenchmark.tasty
+[debug] 	PiAsyncBenchmark.tasty
+[debug] Registering generated classes:
+[debug] 	Main.class
+[debug] 	PiFiberBenchmark$$anon$1.class
+[debug] 	Main$.class
+[debug] 	PiBenchmark.class
+[debug] 	PiFiberBenchmark.class
+[debug] 	PiThreadBenchmark$MonteCarloThread.class
+[debug] 	PiParIOBenchmark.class
+[debug] 	Benchmark.class
+[debug] 	PiThreadBenchmark.class
+[debug] 	PiAsyncBenchmark.class
+[debug] 	Main.tasty
+[debug] 	PiFiberBenchmark$$anon$1.tasty
+[debug] 	Main$.tasty
+[debug] 	PiBenchmark.tasty
+[debug] 	PiFiberBenchmark.tasty
+[debug] 	PiThreadBenchmark$MonteCarloThread.tasty
+[debug] 	PiParIOBenchmark.tasty
+[debug] 	Benchmark.tasty
+[debug] 	PiThreadBenchmark.tasty
+[debug] 	PiAsyncBenchmark.tasty
+[debug] Removing the temporary directory used for backing up class files: C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes.bak

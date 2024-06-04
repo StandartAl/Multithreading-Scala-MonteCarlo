@@ -1,0 +1,39 @@
+[debug] Packaging C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\untitled_3-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	benchmarks
+[debug] 	  C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes\benchmarks
+[debug] 	benchmarks\Benchmark.class
+[debug] 	  C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes\benchmarks\Benchmark.class
+[debug] 	benchmarks\Benchmark.tasty
+[debug] 	  C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes\benchmarks\Benchmark.tasty
+[debug] 	Main$.class
+[debug] 	  C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes\Main$.class
+[debug] 	Main.class
+[debug] 	  C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes\Main.class
+[debug] 	Main.tasty
+[debug] 	  C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes\Main.tasty
+[debug] 	PiAsyncBenchmark.class
+[debug] 	  C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes\PiAsyncBenchmark.class
+[debug] 	PiAsyncBenchmark.tasty
+[debug] 	  C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes\PiAsyncBenchmark.tasty
+[debug] 	PiBenchmark.class
+[debug] 	  C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes\PiBenchmark.class
+[debug] 	PiBenchmark.tasty
+[debug] 	  C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes\PiBenchmark.tasty
+[debug] 	PiFiberBenchmark$$anon$1.class
+[debug] 	  C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes\PiFiberBenchmark$$anon$1.class
+[debug] 	PiFiberBenchmark.class
+[debug] 	  C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes\PiFiberBenchmark.class
+[debug] 	PiFiberBenchmark.tasty
+[debug] 	  C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes\PiFiberBenchmark.tasty
+[debug] 	PiParIOBenchmark.class
+[debug] 	  C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes\PiParIOBenchmark.class
+[debug] 	PiParIOBenchmark.tasty
+[debug] 	  C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes\PiParIOBenchmark.tasty
+[debug] 	PiThreadBenchmark$MonteCarloThread.class
+[debug] 	  C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes\PiThreadBenchmark$MonteCarloThread.class
+[debug] 	PiThreadBenchmark.class
+[debug] 	  C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes\PiThreadBenchmark.class
+[debug] 	PiThreadBenchmark.tasty
+[debug] 	  C:\Users\Kompuhtar\IdeaProjects\untitled\target\scala-3.3.3\classes\PiThreadBenchmark.tasty
+[debug] Done packaging.

@@ -1,0 +1,20 @@
+[debug] > Exec(early(addDefaultCommands), None, None)
+[debug] > Exec(addDefaultCommands, None, None)
+[debug] > Exec(early(initialize), None, None)
+[debug] > Exec(initialize, None, None)
+[debug] > Exec(early(addPluginSbtFile="""C:\Users\Kompuhtar\AppData\Local\Temp\idea11.sbt"""), None, None)
+[debug] > Exec(addPluginSbtFile="""C:\Users\Kompuhtar\AppData\Local\Temp\idea11.sbt""", None, None)
+[debug] > Exec(boot, None, None)
+[debug] > Exec(writeSbtVersion, None, None)
+[debug] > Exec(reload, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(onFailure loadFailed, None, None)
+[debug] > Exec(loadp, None, None)
+[info] welcome to sbt 1.10.0 (Oracle Corporation Java 22.0.1)
+[debug] Load.defaultLoad until apply took 56.3473ms
+[debug]           Load.loadUnit: plugins took 63.8733ms
+[debug]           Load.loadUnit: defsScala took 0.1596ms
+[debug] [Loading] Scanning directory C:\Users\Kompuhtar\IdeaProjects\untitled\project
+[debug]             Load.loadUnit: mkEval took 3.2513ms
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in C:\Users\Kompuhtar\IdeaProjects\untitled\project, returning: ()
