@@ -3,7 +3,7 @@ package benchmarks
 import scala.concurrent.duration.*
 import cats.effect.unsafe.implicits.global
 
-class SomeFunc(threadCount: Int) {
+class StartBenchmarks(threadCount: Int) {
   //val threadCounts = List(2, 4) // Разные значения количества потоков
 
     val futuresBenchmark = new PiBenchmark(threadCount, 50_000_000)

@@ -4,7 +4,7 @@ import scalafx.scene.control.{Button, ComboBox, Label}
 import scalafx.scene.paint.Color
 import scalafx.event.ActionEvent
 import scalafx.Includes.*
-import benchmarks.SomeFunc
+import benchmarks.StartBenchmarks
 import scalafx.scene.text.{Font, TextAlignment}
 
 import scala.collection.mutable.ListBuffer
@@ -38,6 +38,7 @@ object Main extends JFXApp3 {
         val label = new Label()
         label.layoutX = 20
         label.layoutY = 120
+        label.setFont(new Font(14))
         val label1 = new Label()
         label1.layoutX = 150
         label1.layoutY = 290
@@ -64,7 +65,7 @@ object Main extends JFXApp3 {
           val FourthcaseResult: ListBuffer[Double] = ListBuffer()
 
           for (iteration <- 1 to comboBox1.getValue) {
-            val res = new SomeFunc(comboBox.getValue)
+            val res = new StartBenchmarks(comboBox.getValue)
             label.text = res.getResults
             FcaseResult += res.getResultsDouble.head
             ScaseResult += res.getResultsDouble(1)
